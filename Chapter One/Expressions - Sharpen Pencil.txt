@@ -1,0 +1,10 @@
+1. 50
+2. false
+3. true
+4. Martha, you've won!
+5. false
+6. false
+7. true
+8. 153,300
+9. true
+10. 1108
