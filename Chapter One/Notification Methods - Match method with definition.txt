@@ -1,0 +1,15 @@
+document.write
+
+Can insert a little HTML text into a document but is not the most elegant way of messaging the user. However, it does work on every browser.
+
+console.log
+
+For simple debugging purposes. Writes information to a developer's console
+
+alert
+
+Stops the user in their tracks with a short message. The user has to click OK to proceed
+
+document object model
+
+Used to totally control the web page. Get values that a user typed in, alter the HTML or style or update the page's content
