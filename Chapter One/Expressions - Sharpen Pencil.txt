@@ -7,4 +7,4 @@
 7. true
 8. 153,300
 9. true
-10. 1108
+10. 1108 -  Number + a string should be a concat - so 1000 + "108" is 1000108

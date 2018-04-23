@@ -1,0 +1,23 @@
+Across
+
+2. src
+6. camel
+7. behavior
+10. bottles
+13. statement
+14. expression
+15. semicolon
+16. consolelog
+
+
+Down.
+
+1. while
+3. case
+4. var
+5. values
+6. conditional
+8. faster
+9. decision
+11. strings
+12. script
