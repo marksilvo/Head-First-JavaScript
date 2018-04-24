@@ -1,0 +1,18 @@
+Across
+
+3. prompt
+5. random
+8. boolean
+9. _ n _ _ _ _ _ _ _   (If you don't initialise a variable the value is undefined)
+10. false
+11. conditional
+
+Down
+
+1. quality
+2. comparison
+3. psuedocode
+4. true
+6. _ o _ _ _ a l  ( && and || are logical operators)
+7. functions
+10. false

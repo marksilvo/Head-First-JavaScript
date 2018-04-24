@@ -1,0 +1,4 @@
+What's value of humid? - true
+What's the value of isValid? - false (Should be true as its greater than or equal to!)
+What's the value of sendFile? - true
+What's the value of level? - 2
