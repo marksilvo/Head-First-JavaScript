@@ -1,0 +1,6 @@
+juno - woof woof
+scottie - woof woof
+dino - error (If there are extra parameters in a function call then the extra parameters are ignored)
+fido - error (If a string value is entered and a number is expected JavaScript tries to parse the string as a number)
+lady - woof woof
+bruno - WOOF WOOF

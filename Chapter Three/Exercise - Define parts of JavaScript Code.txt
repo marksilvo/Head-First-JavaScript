@@ -1,0 +1,42 @@
+Variables
+
+years
+myDog
+guests
+defaultSound
+pet
+
+Functions
+
+dogYears
+makeTea
+secret
+speak
+
+Build In Functions
+
+console.log
+alert
+prompt
+
+Arguments
+
+myDog
+4
+guests
+Earl Grey
+Woof
+Meow
+defaultSound
+pet
+Enter a type of pet
+The secret of life is 42
+Brewing cups, cups of tea
+
+Parameters
+
+dogName
+age
+cups
+tea
+kind

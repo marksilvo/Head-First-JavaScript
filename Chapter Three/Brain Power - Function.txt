@@ -1,0 +1,8 @@
+function doIt(param) {
+    param = 2;
+}
+var test = 1;
+doIt(test);
+console.log(test);
+
+This would output 1. The value of doIt(test) isn't what is in the console.log
