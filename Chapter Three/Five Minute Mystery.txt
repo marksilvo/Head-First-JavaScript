@@ -1,0 +1,6 @@
+Balance is a global variable, the function steal uses a local variable of balance that shadows the global variable.
+
+When steal is updating the balance it appears that the balance will decrease but it is only for the shadowing value,
+not the global variable, so the balance never actually decreases
+
+The return statement also appears below the "cameraOn = true" statement so the camera is left off 

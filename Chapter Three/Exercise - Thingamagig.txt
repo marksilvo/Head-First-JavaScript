@@ -1,0 +1,29 @@
+When entering 0
+
+clank
+1
+
+When entering 1
+
+thunk
+1
+
+When entering 2
+
+clunk x 2
+2
+
+When entering 3
+
+clunk x 6
+6
+
+When entering 4
+
+clunk x 24
+24
+
+When entering 5
+
+clunk x 120
+120

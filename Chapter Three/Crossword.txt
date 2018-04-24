@@ -1,0 +1,24 @@
+Across
+
+4. variable
+6. (passbyvalue is the term that describes what JavaScript uses to pass arguments to functions)
+10. (A function can be declared anywhere within a JavaScript file and it will work, but it is better to declare them after variables)
+11. undefined
+13. function
+16. globals
+17. shadow
+
+
+
+Down
+
+1. (The term to describe what a variable can be used in is its scope)
+2. reuse
+3. parameters
+5. return
+7. arguments
+8. variables
+9. (The term for going through your code line by line is tracing not working)
+12. email
+14. local
+15. ignored
