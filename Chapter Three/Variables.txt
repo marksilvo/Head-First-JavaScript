@@ -1,0 +1,42 @@
+Arguments
+
+d2
+width
+height
+radius
+x
+y
+centerX
+centerY
+"Area: " + area
+"Distance: " + distance
+
+Parameters (Otherwise known as a local variable!!)
+
+width
+height
+x1
+y1
+x2
+y2
+r
+
+Locals
+
+dx
+dy
+d2
+d
+area
+
+Globals
+
+x
+y
+radius
+centerX
+centerY
+width (shadowed by parameter)
+height (shadowed by parameter)
+area (shadowed by local var area)
+distance
