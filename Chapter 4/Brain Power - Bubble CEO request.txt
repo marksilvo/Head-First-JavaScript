@@ -1,0 +1,10 @@
+To get the list of scores I would use a while look using the array length.
+Then reference the array index and the value at that index in the output
+
+Array length can be used to count how many test there charset
+
+Use if logic and a local variable to store the current maximum value and update it during each iteration
+of the while loop to find the maximum value
+
+Use if logic in the while loop to concatenate the index onto a string for the solution number if the value is the same
+as the current max. If it is higher create a new string

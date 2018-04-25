@@ -1,0 +1,22 @@
+Across
+
+5. sparse
+9. assign
+10. bubbleologist
+14. refactor
+17. index
+
+Down
+
+1. push
+2. for
+3. changing - (An array is good for storing multiple values)
+4. less
+6. postincrement
+7. (we use the length property to know when to stop iterating through an array)
+8. zero
+11. undefined
+12. structure - (functions can be used to organise your code)
+13. (An array is an ordered data structure)
+15. two
+16. index
