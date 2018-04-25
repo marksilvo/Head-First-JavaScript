@@ -1,0 +1,13 @@
+var products = ["Choo Choo Chocolate", "Icy Mint", "Cake Batter", "Bubblegum"];
+var last = products[products.length];
+var recent = products[last];
+
+
+Should have been
+var products = ["Choo Choo Chocolate", "Icy Mint", "Cake Batter", "Bubblegum"];
+var last = products.length - 1;
+var recent = products[last];
+
+array.length gives the number of items in the array
+
+Indexes still begin at 0 so the index of the last item in the array is the length - 1
